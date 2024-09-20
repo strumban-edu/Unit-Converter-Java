@@ -1,3 +1,5 @@
+UNIT CONVERTER
+--------------
 A simple command line unit converter.
 
 The converter gives the user three options for unit types to convert
